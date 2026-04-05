@@ -1,4 +1,4 @@
-# Analiza meczowa: Sebastian Szymański (Szwecja vs Polska)
+# Analiza meczu: Sebastian Szymański (Szwecja vs Polska)
 
 Oto analiza statystyczna w formie wykresu pizza chart:
 
